@@ -20,7 +20,7 @@ Waziup Wazidev: https://www.waziup.io/iot-edge-platform/dev-boards/wazidev/
 
 The Things Network: https://eu1.cloud.thethings.network/console
 
-https://mqtt.org/
+MQTT: https://mqtt.org/
 
 Node Red: https://nodered.org/
 
